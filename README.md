@@ -56,7 +56,7 @@ This project uses Hugging Face's transformer library to fine-tune a pretrained m
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/contradictory-my-dear-watson.git
+git clone https://github.com/Poulami-Nandi/NLI_HuggingFace.git
 cd contradictory-my-dear-watson
 
 # Install required Python packages
