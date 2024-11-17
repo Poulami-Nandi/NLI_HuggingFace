@@ -61,3 +61,12 @@ cd contradictory-my-dear-watson
 
 # Install required Python packages
 pip install -r requirements.txt
+```
+
+## Kaggle Authentication
+
+```bash
+mkdir ~/.kaggle
+cp kaggle.json ~/.kaggle/
+chmod 600 ~/.kaggle/kaggle.json
+```
