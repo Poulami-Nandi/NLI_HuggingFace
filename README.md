@@ -57,7 +57,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Poulami-Nandi/NLI_HuggingFace.git
-cd contradictory-my-dear-watson
+cd NLI_HuggingFace
 
 # Install required Python packages
 pip install -r requirements.txt
